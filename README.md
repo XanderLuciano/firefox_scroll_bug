@@ -1,0 +1,1 @@
+# firefox_scroll_bug
