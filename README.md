@@ -5,4 +5,7 @@ Do note thar the actual orbit controls example visualisation can't be seen, as i
 
 The challenge is to reduce the code of this bug-inducing example. The Firefox bug manager has asked for that. I know very little about the internals of three.js and OrbitControls.js. Thus I'm asking for help from the three.js developers on how to reduce the code size for this bug-example, while keeping the bug-inducing behavior.
 
+Bug Example: [No Scroll](/no-scroll.html)  
+Fixed Example: [Scroll](/scroll.html)
+
 This is the Firrefox bug on Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=1418442
